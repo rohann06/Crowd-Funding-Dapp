@@ -9,9 +9,9 @@ function App() {
   const { disconnect } = useDisconnect();
 
   return (
-    <>
+    <div className="">
       <Navbar />
-    </>
+    </div>
   );
 }
 
